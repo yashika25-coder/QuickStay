@@ -1,2 +1,1 @@
-# Prescripto
-Prescripto 🏥 is a full-stack MERN Hospital Management System with role-based dashboards for Admin, Doctors, and Patients. Features include appointment booking, prescription management, secure JWT authentication, and a responsive UI built with React &amp; Tailwind CSS.
+QuickStay 🏨 is a full-stack MERN Hotel Booking Website that allows users to search, view, and book hotels with date-based availability. Includes secure JWT authentication, role-based dashboards for users & admins, booking management, and a responsive UI built with React & Tailwind CSS.
